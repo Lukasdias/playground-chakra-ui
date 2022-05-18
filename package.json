@@ -1,13 +1,7 @@
 {
-  "name": "vibrant",
+  "name": "tests-chakra",
   "version": "0.0.0",
-  "author": {
-    "name": "David Sima",
-    "email": "hello@david-sima.dev",
-    "url": "https://github.com/The24thDS"
-  },
   "private": true,
-  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -26,8 +20,10 @@
     "@chakra-ui/icons": "^1.1.7",
     "@chakra-ui/react": "^1.8.5",
     "@chakra-ui/system": "^1.11.1",
+    "@chakra-ui/theme": "^2.0.1",
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
+    "@fontsource/poppins": "^4.5.8",
     "framer-motion": "^6.2.8",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
